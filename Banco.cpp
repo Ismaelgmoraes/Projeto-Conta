@@ -3,10 +3,10 @@
 int main()
 {
     //Criamos um objeto ContaCliente01 do tipo conta
-    // que est· alocado na Stack.
+    // que est√° alocado na Stack.
     Conta ContaCliente01;
-    //Criamos um objeto ContaCliente01 do tipo conta
-    // que est· alocado na Stack.
+    //Criamos um objeto ContaCliente02 do tipo conta
+    // que est√° alocado na Stack.
     Conta ContaCliente02;
 
     ContaCliente01.SetBanco("Bradesco");
